@@ -1,5 +1,5 @@
 <h1 align="center">🦹‍♀️ ASITHA BOT🦹‍♀️<br></h1>
-<p align="center"><img src="https://telegra.ph/file/e4c0e7eb7441a534e735e.jpg" alt="animated" /></p>
+<p align="center"><img src=":https://telegra.ph/file/6ab33143dd3c0a1cbe8fe.jpg" alt="animated" /></p>
 
 
 # Setup For Deployment 👇
